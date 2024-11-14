@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://deborahpate840.github.io/deborahpate840_github_io_zp533_11.txt
+Sitemap: https://deborahpate840.github.io/deborahpate840_github_io_zp533_20.txt
+Sitemap: https://deborahpate840.github.io/deborahpate840_github_io_zp533_3.txt
